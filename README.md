@@ -1,6 +1,6 @@
 # automacao-planta-python01
 Projeto simples que simula irrigação automática e evolução de uma planta, aplicando conceitos de automação. ⚙️💧
-![Demonstração](b45569e30db646179169b7175beb6af0.gif)
+![Demonstração](518392b551ff4a54957c7fa6143a2b91.gif)
 
 ```python
 ''' Simulador de Planta Automatizada – Projeto em Python
