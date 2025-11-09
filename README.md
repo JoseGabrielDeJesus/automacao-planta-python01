@@ -1,5 +1,7 @@
 # automacao-planta-python01
-Projeto simples que simula irrigação automática e evolução de uma planta, aplicando conceitos de automação. ⚙️💧
+Projeto simples que simula irrigação automática e evolução de uma planta, aplicando conceitos de automação. ⚙️💧🌳
+
+No vídeo mostra apenas alguns casos, mas o programa reconhece quando a planta esta morrendo, caso o controlador seja desligado a saude da planta começa cair e etc. 
 ![Demonstração](518392b551ff4a54957c7fa6143a2b91.gif)
 
 ```python
